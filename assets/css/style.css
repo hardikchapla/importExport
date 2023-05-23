@@ -17749,7 +17749,7 @@ h6{
   display: none !important;
 }
 .our-mission{
-  transition: 1s;
+  transition: 500ms all ease;
 }
 /* .our-mission h3{
   transition: 1s;
