@@ -17748,3 +17748,15 @@ h6{
 .d-none{
   display: none !important;
 }
+.our-mission{
+  transition: 1s;
+}
+/* .our-mission h3{
+  transition: 1s;
+} */
+.our-mission:hover{
+  background-color: #ea1e00;
+}
+.our-mission:hover h3, .our-mission:hover p, .our-mission:hover .fa-bullseye-arrow{
+  color: #fff !important;
+}
