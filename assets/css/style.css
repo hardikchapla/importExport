@@ -17750,10 +17750,8 @@ h6{
 }
 .our-mission{
   transition: 500ms all ease;
+  -webkit-transition: 500ms all ease;
 }
-/* .our-mission h3{
-  transition: 1s;
-} */
 .our-mission:hover{
   background-color: #ea1e00;
 }
